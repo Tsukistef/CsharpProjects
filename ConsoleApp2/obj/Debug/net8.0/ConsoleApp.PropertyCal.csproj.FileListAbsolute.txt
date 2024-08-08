@@ -1,0 +1,15 @@
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\bin\Debug\net8.0\ConsoleApp.PropertyCal.exe
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\bin\Debug\net8.0\ConsoleApp.PropertyCal.deps.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\bin\Debug\net8.0\ConsoleApp.PropertyCal.runtimeconfig.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\bin\Debug\net8.0\ConsoleApp.PropertyCal.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\bin\Debug\net8.0\ConsoleApp.PropertyCal.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.AssemblyInfoInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.AssemblyInfo.cs
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.csproj.CoreCompileInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.sourcelink.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\refint\ConsoleApp.PropertyCal.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp.PropertyCal.genruntimeconfig.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp.PropertyCal.dll

@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sfior\\Source\\Repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj": {}
+    "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sfior\\Source\\Repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj": {
+    "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sfior\\Source\\Repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
+        "projectUniqueName": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
         "projectName": "ConsoleApp_inputuser",
-        "projectPath": "C:\\Users\\sfior\\Source\\Repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
+        "projectPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
         "packagesPath": "C:\\Users\\sfior\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\obj\\",
         "projectStyle": "PackageReference",

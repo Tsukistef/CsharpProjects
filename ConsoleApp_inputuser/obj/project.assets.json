@@ -13,9 +13,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
-      "projectName": "ConsoleApp_inputuser",
-      "projectPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp_inputuser.csproj",
+      "projectUniqueName": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp.inputuser.csproj",
+      "projectName": "ConsoleApp.inputuser",
+      "projectPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\ConsoleApp.inputuser.csproj",
       "packagesPath": "C:\\Users\\sfior\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\obj\\",
       "projectStyle": "PackageReference",

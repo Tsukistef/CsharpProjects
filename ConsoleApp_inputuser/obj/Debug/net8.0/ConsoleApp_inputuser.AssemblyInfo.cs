@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp_inputuser")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+26dcc6b942c3c15be2d1dbcdb24dbdf7ed8af496")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+be790f2b2c92f6ce0d1c2d247f488b3a6966641f")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp_inputuser")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp_inputuser")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

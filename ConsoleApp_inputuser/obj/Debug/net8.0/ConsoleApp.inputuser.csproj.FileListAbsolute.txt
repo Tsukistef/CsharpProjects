@@ -1,0 +1,15 @@
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\bin\Debug\net8.0\ConsoleApp.inputuser.exe
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\bin\Debug\net8.0\ConsoleApp.inputuser.deps.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\bin\Debug\net8.0\ConsoleApp.inputuser.runtimeconfig.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\bin\Debug\net8.0\ConsoleApp.inputuser.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\bin\Debug\net8.0\ConsoleApp.inputuser.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.AssemblyInfoInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.AssemblyInfo.cs
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.csproj.CoreCompileInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.sourcelink.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\refint\ConsoleApp.inputuser.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp.inputuser.genruntimeconfig.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ref\ConsoleApp.inputuser.dll

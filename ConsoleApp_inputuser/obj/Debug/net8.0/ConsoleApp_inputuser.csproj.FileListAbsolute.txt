@@ -26,3 +26,4 @@ C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp_inputuser.pdb
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp_inputuser.genruntimeconfig.cache
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ref\ConsoleApp_inputuser.dll
+C:\Users\sfior\Source\Repos\ProjectsCsharp\ConsoleApp_inputuser\obj\Debug\net8.0\ConsoleApp_inputuser.sourcelink.json

@@ -26,3 +26,4 @@ C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\refint\C
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp_propertyCal.pdb
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp_propertyCal.genruntimeconfig.cache
 C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ref\ConsoleApp_propertyCal.dll
+C:\Users\sfior\Source\Repos\ProjectsCsharp\ConsoleApp2\obj\Debug\net8.0\ConsoleApp_propertyCal.sourcelink.json
