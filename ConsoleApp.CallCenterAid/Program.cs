@@ -45,13 +45,13 @@
 
                     if (rightPerson == 1)
                     {
-                        Console.WriteLine("\nAsk the customer to confirm:\n- Full Name including initials\n- Full Address with town and postcode\n- Date Of Birth\n\nHave they confirmed ALL? (true/false)");
-                        bool IsAuthorised = Convert.ToBoolean(Console.ReadLine());
+                        Console.WriteLine("\nAsk the customer to confirm:\n- Full Name including initials\n- Full Address with town and postcode\n- Date Of Birth\n\nHave they confirmed ALL? (y/n)");
+                        bool IsAuthorised = ConvertToBoolean(Console.ReadLine());
                         if (IsAuthorised == false)
                         {
                             Console.WriteLine("Name & Address must be always confirmed.\nIf customer cannot confirm DOB, then ask customer to either confirm telephone number or email.");
-                            Console.WriteLine("Continue? (true/false)");
-                            bool passIdentification = Convert.ToBoolean(Console.ReadLine());
+                            Console.WriteLine("Continue? (y/n)");
+                            bool passIdentification = ConvertToBoolean(Console.ReadLine());;
                             if (passIdentification == false)
                             {
                                 Console.WriteLine("I am sorry unfortunately I am unable to continue as you have not confirmed all the data.");
@@ -63,8 +63,8 @@
                     {
                         Console.WriteLine("------------------------------------");
                         Console.WriteLine("\nCheck the authorisation on the 'comment box' in Caseflow'please.\nAsk to confirm their 'Full Name' and 'Relationship' to the customer\n");
-                        Console.WriteLine("\nAsk the third party to confirm customer's:\n- Full Name including initials\n- Full Address with town and postcode\n- Date Of Birth\n\nHave they confirmed ALL? (true/false)");
-                        bool IsAuthorised = Convert.ToBoolean(Console.ReadLine());
+                        Console.WriteLine("\nAsk the third party to confirm customer's:\n- Full Name including initials\n- Full Address with town and postcode\n- Date Of Birth\n\nHave they confirmed ALL? (y/n)");
+                        bool IsAuthorised = ConvertToBoolean(Console.ReadLine());;
                         if (IsAuthorised == false)
                         {
                             Console.WriteLine("\nWhich data they cannot confirm?\n1.Name or Address\n2.DOB\n3.All three\n");
@@ -82,8 +82,8 @@
                             }
                             else
                             {
-                                Console.WriteLine("I am very sorry but unfortunately I cannot proceed with the call. Is the customer there? true/false");
-                                bool isCustomer = Convert.ToBoolean(Console.ReadLine());
+                                Console.WriteLine("I am very sorry but unfortunately I cannot proceed with the call. Is the customer there? y/n");
+                                bool isCustomer = ConvertToBoolean(Console.ReadLine());;
                                 if (isCustomer == false)
                                 {
                                     Console.WriteLine("I am sorry unfortunately I am unable to continue as you are not authorised to talk on their behalf. Thank you for calling");
@@ -92,8 +92,8 @@
                             }
                         }
 
-                        Console.WriteLine("\nDid you ask to confirm ALL Security Check and Data cleanse? (true/false)");
-                        bool passIdentification = Convert.ToBoolean(Console.ReadLine());
+                        Console.WriteLine("\nDid you ask to confirm ALL Security Check and Data cleanse? (y/n)");
+                        bool passIdentification = ConvertToBoolean(Console.ReadLine());;
                         if (passIdentification == false)
                         {
                             Console.WriteLine("I am sorry unfortunately I am unable to continue as you have not confirmed all the data.");
@@ -117,18 +117,18 @@
                     try
                     {
                         Console.WriteLine("------------------------------------");
-                        Console.WriteLine("First contact? true/false");
-                        bool firstContact = Convert.ToBoolean(Console.ReadLine());
-                        Console.WriteLine("Is the customer contacting us to make a payment? true/false");
-                        bool payBill = Convert.ToBoolean(Console.ReadLine());
+                        Console.WriteLine("First contact? y/n");
+                        bool firstContact = ConvertToBoolean(Console.ReadLine());;
+                        Console.WriteLine("Is the customer contacting us to make a payment? y/n");
+                        bool payBill = ConvertToBoolean(Console.ReadLine());;
 
                         if (firstContact || payBill)
                         {
                             try
                             {
                                 Console.WriteLine("------------------------------------");
-                                Console.WriteLine("\nAre you calling to pay today? (true/false)");
-                                bool clearBalance = Convert.ToBoolean(Console.ReadLine());
+                                Console.WriteLine("\nAre you calling to pay today? (y/n)");
+                                bool clearBalance = ConvertToBoolean(Console.ReadLine());;
                                 if (clearBalance)
                                 {
                                     while (true) // Affordability
@@ -145,16 +145,16 @@
                                             case "2":
                                                 Console.WriteLine("Benefits - Which benefits are you in receipt of?"); // Benefits
                                                 Console.WriteLine("(If customer mentions Disability Income, ask if there is any medical circumstance they should make you aware of).");
-                                                Console.WriteLine("\nDoes the customer suffer from any medical circumstances? (true/false)"); // Vulnerable trigger
-                                                bool medicalCircumstances = Convert.ToBoolean(Console.ReadLine());
+                                                Console.WriteLine("\nDoes the customer suffer from any medical circumstances? (y/n)"); // Vulnerable trigger
+                                                bool medicalCircumstances = ConvertToBoolean(Console.ReadLine());;
 
                                                 if (medicalCircumstances == true) // Vulnerable process - Benefit trigger
                                                 {
                                                     Console.WriteLine("\n**************Vulnerability Questions**************");
                                                     Console.WriteLine("Which circumstances is the customer affected with?\nType below:\n");
                                                     string medCondition = Console.ReadLine();
-                                                    Console.WriteLine($"Do I have your explicit consent to note that you suffer from {medCondition}? (true/false)");
-                                                    bool consent = Convert.ToBoolean(Console.ReadLine());
+                                                    Console.WriteLine($"Do I have your explicit consent to note that you suffer from {medCondition}? (y/n)");
+                                                    bool consent = ConvertToBoolean(Console.ReadLine());;
 
                                                     try
                                                     {
@@ -162,12 +162,12 @@
                                                         {
                                                             Console.WriteLine("Thank you for that. Could I ask how is your condition affecting your ability to pay?");
                                                             Console.WriteLine("Are you responsible to manage your own finances?");
-                                                            bool responsible = Convert.ToBoolean(Console.ReadLine());
+                                                            bool responsible = ConvertToBoolean(Console.ReadLine());;
                                                             if (responsible == false) // Not responsible
                                                             {
                                                                 Console.WriteLine("Would you like to authorise somebody to talk on your behalf?\n(Add full name and relationship to third party in the comment box)");
-                                                                Console.WriteLine("Ask if they would like to arrange a call back when the person will be present? (true/false)");
-                                                                bool callBack = Convert.ToBoolean(Console.ReadLine());
+                                                                Console.WriteLine("Ask if they would like to arrange a call back when the person will be present? (y/n)");
+                                                                bool callBack = ConvertToBoolean(Console.ReadLine());;
                                                                 if (callBack == true)
                                                                 {
                                                                     Console.WriteLine("Thank you for your time. We will call you back.");
@@ -202,14 +202,14 @@
                                                 Console.WriteLine("Wrong input. Please try again.");
                                                 continue;
                                         }
-                                        Console.WriteLine("Are you up to date with all your priority bills? (true/false)"); // Priority Bills
-                                        bool priorityBills = Convert.ToBoolean(Console.ReadLine());
+                                        Console.WriteLine("Are you up to date with all your priority bills? (y/n)"); // Priority Bills
+                                        bool priorityBills = ConvertToBoolean(Console.ReadLine());;
                                         if (priorityBills == false)
                                         {
-                                            Console.WriteLine("Which bills are you behind with? Do you have plans to pay? true/false"); // Plans in place
+                                            Console.WriteLine("Which bills are you behind with? Do you have plans to pay? y/n"); // Plans in place
                                             try
                                             {
-                                                bool hasPlans = Convert.ToBoolean(Console.ReadLine());
+                                                bool hasPlans = ConvertToBoolean(Console.ReadLine());;
                                                 if (hasPlans == true)
                                                 {
                                                     Console.WriteLine("Continue with affordability:");
@@ -228,14 +228,14 @@
                                             }
                                         }
 
-                                        Console.WriteLine("Do you have any other debts or creditors? true/false"); // Other Creditors
+                                        Console.WriteLine("Do you have any other debts or creditors? y/n"); // Other Creditors
                                         try
                                         {
-                                            bool otherDebts = Convert.ToBoolean(Console.ReadLine());
+                                            bool otherDebts = ConvertToBoolean(Console.ReadLine());;
                                             if (otherDebts == true)
                                             {
-                                                Console.WriteLine("Do you have any plans in place to repay them? true/false"); // Plans in place
-                                                bool hasPlans = Convert.ToBoolean(Console.ReadLine());
+                                                Console.WriteLine("Do you have any plans in place to repay them? y/n"); // Plans in place
+                                                bool hasPlans = ConvertToBoolean(Console.ReadLine());;
                                                 if (hasPlans == true)
                                                 {
                                                     Console.WriteLine("Continue with affordability:");
@@ -250,10 +250,10 @@
                                             Console.WriteLine("------------------------------------");
                                             Console.WriteLine("What is an affordable amount for you?"); // Amount affordable
                                             int affordableAmount = Convert.ToInt32(Console.ReadLine());
-                                            Console.WriteLine($"Could you confirm that £{affordableAmount} is an affordable amount for you? true/false");
+                                            Console.WriteLine($"Could you confirm that £{affordableAmount} is an affordable amount for you? y/n");
                                             try
                                             {
-                                                bool isAffordable = Convert.ToBoolean(Console.ReadLine());
+                                                bool isAffordable = ConvertToBoolean(Console.ReadLine());;
                                                 if (isAffordable == true)
                                                 {
                                                     Console.WriteLine("Please set up plan:\n- Confirm banking details and name on card\n- Read scripts\n- Transfer to correct recording");
@@ -341,6 +341,12 @@
                 }
                 continue;
             }
+        }
+
+        //a function to convert y or n to boolean
+        static bool ConvertToBoolean(string input)
+        {
+            return input.ToLower() == "y";
         }
     }
 }
