@@ -1,0 +1,15 @@
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\bin\Debug\net8.0\ConsoleApp.CallCenterAid.exe
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\bin\Debug\net8.0\ConsoleApp.CallCenterAid.deps.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\bin\Debug\net8.0\ConsoleApp.CallCenterAid.runtimeconfig.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\bin\Debug\net8.0\ConsoleApp.CallCenterAid.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\bin\Debug\net8.0\ConsoleApp.CallCenterAid.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.AssemblyInfoInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.AssemblyInfo.cs
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.csproj.CoreCompileInputs.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.sourcelink.json
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\refint\ConsoleApp.CallCenterAid.dll
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.pdb
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ConsoleApp.CallCenterAid.genruntimeconfig.cache
+C:\Users\sfior\source\repos\ProjectsCsharp\ConsoleApp.CallCenterAid\obj\Debug\net8.0\ref\ConsoleApp.CallCenterAid.dll
