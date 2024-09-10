@@ -3,8 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{77813D24-F7C7-4841-A3A0-C40BF4BA38CE}|ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\consoleapp.callcenteraid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{77813D24-F7C7-4841-A3A0-C40BF4BA38CE}|ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj|solutionrelative:consoleapp.callcenteraid\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{AD2065B8-EBE1-498A-856D-FD18CBF7BB03}|StringsDateTime\\StringsDateTime.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\stringsdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AD2065B8-EBE1-498A-856D-FD18CBF7BB03}|StringsDateTime\\StringsDateTime.csproj|solutionrelative:stringsdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1B31FDE3-C421-4B00-ABFE-9A4B062B53A1}|ConsoleApp2\\ConsoleApp.PropertyCal.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\consoleapp2\\consoleapp.propertycal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{1B31FDE3-C421-4B00-ABFE-9A4B062B53A1}|ConsoleApp2\\ConsoleApp.PropertyCal.csproj|solutionrelative:consoleapp2\\consoleapp.propertycal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{BA654202-A930-41E7-8252-997CEC714A88}|ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\consoleapp_inputuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Bookmark",
@@ -37,29 +41,45 @@
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp.CallCenterAid\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp.CallCenterAid\\Program.cs",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp.CallCenterAid\\Program.cs",
-              "RelativeToolTip": "ConsoleApp.CallCenterAid\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAABAAAAAsAAAA",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\StringsDateTime\\Program.cs",
+              "RelativeDocumentMoniker": "StringsDateTime\\Program.cs",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\StringsDateTime\\Program.cs*",
+              "RelativeToolTip": "StringsDateTime\\Program.cs*",
+              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGAAAABCAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-05T20:29:21.464Z",
+              "WhenOpened": "2024-09-07T16:47:10.021Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "ConsoleApp.PropertyCal.csproj",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+              "RelativeToolTip": "ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-09-07T10:10:35.294Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\Program.cs",
               "RelativeDocumentMoniker": "ConsoleApp_inputuser\\Program.cs",
               "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\Program.cs",
               "RelativeToolTip": "ConsoleApp_inputuser\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAcAAAAAAAAA",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-01T22:15:59.889Z"
+              "WhenOpened": "2024-08-12T20:23:26.185Z"
             }
           ]
         },

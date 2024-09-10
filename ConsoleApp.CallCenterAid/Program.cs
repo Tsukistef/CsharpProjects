@@ -163,7 +163,7 @@
                                                             Console.WriteLine("Thank you for that. Could I ask if your condition is affecting your ability to pay? how?");
                                                             // Additional questions to ask
                                                             Console.WriteLine("(Please transfer to CST if customer is unable to pay)");
-                                                            Console.WriteLine("Are you responsible to manage your own finances?");
+                                                            Console.WriteLine("Are you responsible to manage your own finances? y/n");
                                                             bool responsible = ConvertToBoolean(Console.ReadLine());;
                                                             if (responsible == false) // Not responsible
                                                             {

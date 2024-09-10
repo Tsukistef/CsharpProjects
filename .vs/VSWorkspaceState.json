@@ -1,7 +1,8 @@
 {
   "ExpandedNodes": [
-    ""
+    "",
+    "\\StringsDateTime"
   ],
-  "SelectedNode": "\\ConsoleApp_Projects.sln",
+  "SelectedNode": "\\StringsDateTime\\StringsDateTime.csproj",
   "PreviewInSolutionExplorer": false
 }

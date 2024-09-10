@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp.PropertyCal")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a394469f1932539825beaee835ea98405b94d7fa")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e2972622a3c01176a835718b8ee1c690009b7d4a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp.PropertyCal")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp.PropertyCal")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
