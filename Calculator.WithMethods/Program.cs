@@ -9,14 +9,14 @@ int num1 = 0, num2 = 0;
 
 while (choice != -1)
 {
-    Console.WriteLine("Please select operation to perform. Type -1 to exit");
+    Console.WriteLine("\nPlease select operation to perform. Type -1 to exit");
     Console.WriteLine("1. Add");
     Console.WriteLine("2. Subtract");
     Console.WriteLine("3. Multiply");
     Console.WriteLine("4. Divide");
     Console.WriteLine("5. Fibonacci");
 
-    try
+    try     // Will handle any invalid input
     {
 
         choice = Convert.ToInt32(Console.ReadLine());
@@ -102,10 +102,10 @@ while (choice != -1)
     catch (DivideByZeroException e)
     {
         Console.WriteLine(e.Message);
-        Console.Clear();
     }
-    catch (Exception ex)
+    catch (Exception e)
     {
+        Console.WriteLine(e.Message);
         Console.WriteLine("\nInvalid Input, try again");
     }
 }
