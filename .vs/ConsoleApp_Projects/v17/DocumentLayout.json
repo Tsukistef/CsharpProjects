@@ -3,16 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AD2065B8-EBE1-498A-856D-FD18CBF7BB03}|StringsDateTime\\StringsDateTime.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\stringsdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AD2065B8-EBE1-498A-856D-FD18CBF7BB03}|StringsDateTime\\StringsDateTime.csproj|solutionrelative:stringsdatetime\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{1B31FDE3-C421-4B00-ABFE-9A4B062B53A1}|ConsoleApp2\\ConsoleApp.PropertyCal.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\consoleapp2\\consoleapp.propertycal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{1B31FDE3-C421-4B00-ABFE-9A4B062B53A1}|ConsoleApp2\\ConsoleApp.PropertyCal.csproj|solutionrelative:consoleapp2\\consoleapp.propertycal.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{BA654202-A930-41E7-8252-997CEC714A88}|ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\consoleapp_inputuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{BA654202-A930-41E7-8252-997CEC714A88}|ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj|solutionrelative:consoleapp_inputuser\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{40188657-C3B4-4A8A-9F47-DD873CDEC32C}|Calculator.WithMethods\\Calculator.WithMethods.csproj|c:\\users\\sfior\\source\\repos\\projectscsharp\\calculator.withmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{40188657-C3B4-4A8A-9F47-DD873CDEC32C}|Calculator.WithMethods\\Calculator.WithMethods.csproj|solutionrelative:calculator.withmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -48,38 +40,14 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\StringsDateTime\\Program.cs",
-              "RelativeDocumentMoniker": "StringsDateTime\\Program.cs",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\StringsDateTime\\Program.cs*",
-              "RelativeToolTip": "StringsDateTime\\Program.cs*",
-              "ViewState": "AQIAAEkAAAAAAAAAAAAAAGAAAABCAAAA",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\Calculator.WithMethods\\Program.cs",
+              "RelativeDocumentMoniker": "Calculator.WithMethods\\Program.cs",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\Calculator.WithMethods\\Program.cs*",
+              "RelativeToolTip": "Calculator.WithMethods\\Program.cs*",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAAGwAAAA4AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-07T16:47:10.021Z",
+              "WhenOpened": "2024-09-18T18:52:03.049Z",
               "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ConsoleApp.PropertyCal.csproj",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
-              "RelativeDocumentMoniker": "ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
-              "RelativeToolTip": "ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2024-09-07T10:10:35.294Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\Program.cs",
-              "RelativeDocumentMoniker": "ConsoleApp_inputuser\\Program.cs",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\ProjectsCsharp\\ConsoleApp_inputuser\\Program.cs",
-              "RelativeToolTip": "ConsoleApp_inputuser\\Program.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABoAAAAfAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-12T20:23:26.185Z"
             }
           ]
         },

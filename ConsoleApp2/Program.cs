@@ -19,7 +19,7 @@
             while (true)    //it will break when user enters a valid input
             {
                 Console.WriteLine("Enter the number of rooms:");
-                bool isValidInput = int.TryParse(Console.ReadLine(), out roomsNum);
+                bool isValidInput = int.TryParse(Console.ReadLine(), out roomsNum); //Value is assigned to sizeSqrMt variable, isValid if value is an integer
 
                 if (isValidInput)
                 {
@@ -48,7 +48,7 @@
             while (true)
             {
                 Console.WriteLine("Enter the number of square meters:");
-                bool isValidInput = int.TryParse(Console.ReadLine(), out sizeSqrMt);
+                bool isValidInput = int.TryParse(Console.ReadLine(), out sizeSqrMt); 
 
                 if (isValidInput) {
                     {
