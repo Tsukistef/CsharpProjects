@@ -11,7 +11,9 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "ConsoleApp.CallCenterAid", 
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "StringsDateTime", "StringsDateTime\StringsDateTime.csproj", "{AD2065B8-EBE1-498A-856D-FD18CBF7BB03}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Calculator.WithMethods", "Calculator.WithMethods\Calculator.WithMethods.csproj", "{40188657-C3B4-4A8A-9F47-DD873CDEC32C}"
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Calculator.WithMethods", "Calculator.WithMethods\Calculator.WithMethods.csproj", "{40188657-C3B4-4A8A-9F47-DD873CDEC32C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Student.List", "Student.List\Student.List.csproj", "{5326671A-B530-4DF9-8275-2E5795D34A95}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -39,6 +41,10 @@ Global
 		{40188657-C3B4-4A8A-9F47-DD873CDEC32C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{40188657-C3B4-4A8A-9F47-DD873CDEC32C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{40188657-C3B4-4A8A-9F47-DD873CDEC32C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{5326671A-B530-4DF9-8275-2E5795D34A95}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{5326671A-B530-4DF9-8275-2E5795D34A95}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{5326671A-B530-4DF9-8275-2E5795D34A95}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{5326671A-B530-4DF9-8275-2E5795D34A95}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
