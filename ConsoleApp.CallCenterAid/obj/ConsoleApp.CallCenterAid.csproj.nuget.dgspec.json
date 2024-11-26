@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {}
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
+        "projectUniqueName": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
         "projectName": "ConsoleApp.CallCenterAid",
-        "projectPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
+        "projectPath": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
         "packagesPath": "C:\\Users\\Stefania\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\obj\\",
         "projectStyle": "PackageReference",

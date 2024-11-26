@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj": {}
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj": {
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+        "projectUniqueName": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
         "projectName": "ConsoleApp.PropertyCal",
-        "projectPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
+        "projectPath": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp2\\ConsoleApp.PropertyCal.csproj",
         "packagesPath": "C:\\Users\\Stefania\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp2\\obj\\",
         "projectStyle": "PackageReference",

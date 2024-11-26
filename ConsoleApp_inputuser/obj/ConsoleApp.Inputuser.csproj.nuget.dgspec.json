@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj": {}
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj": {
+    "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj",
+        "projectUniqueName": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj",
         "projectName": "ConsoleApp.Inputuser",
-        "projectPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj",
+        "projectPath": "C:\\Users\\Stefania\\source\\repos\\CsharpProjects\\ConsoleApp_inputuser\\ConsoleApp.Inputuser.csproj",
         "packagesPath": "C:\\Users\\Stefania\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\Stefania\\Source\\Repos\\CsharpProjects\\ConsoleApp_inputuser\\obj\\",
         "projectStyle": "PackageReference",
