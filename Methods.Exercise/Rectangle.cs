@@ -1,6 +1,6 @@
 ﻿using Classes.Exercise;
 
-namespace Methods.Exercise
+namespace Classes.Exercise
 {
     public class Rectangle : Polygon, I2DShape // only one class can be inherited, but multiple interfaces
     {

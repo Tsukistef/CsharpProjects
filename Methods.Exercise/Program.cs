@@ -1,6 +1,5 @@
 ﻿// See https://aka.ms/new-console-template for more information
-using Methods.Exercise;
-
+using Classes.Exercise;
 
 // creating an instance of a class
 Person baby = new Person();
@@ -33,3 +32,17 @@ Console.WriteLine($"The area of the rectangle is: {rectangleArea}");
 Square square = new(10);
 var squareArea = square.Area();
 Console.WriteLine($"The are of the square is: {squareArea}");
+
+Cuboid cuboid = new(1, 5, 7);
+var cuboidArea = cuboid.Area();
+var cuboidPerimeter = cuboid.Perimeter();
+var cuboidVolume = cuboid.Volume();
+Console.WriteLine($"The area of the cuboid is: {cuboidArea}");
+Console.WriteLine($"The perimeter of the cuboid is: {cuboidPerimeter}");
+Console.WriteLine($"The volume of the cuboid is: {cuboidVolume}");
+
+Sphere sphere = new(7);
+var sphereArea = sphere.Circumference();
+var sphereVolume = sphere.Volume();
+Console.WriteLine($"The area of the cuboid is: {sphereArea}");
+Console.WriteLine($"The volume of the cuboid is: {sphereVolume}");

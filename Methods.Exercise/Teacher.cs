@@ -5,7 +5,7 @@ using System.Security.Cryptography;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Methods.Exercise
+namespace Classes.Exercise
 {
     internal class Teacher : Person
     {

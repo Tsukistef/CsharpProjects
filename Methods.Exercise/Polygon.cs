@@ -4,13 +4,13 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 
-namespace Methods.Exercise
+namespace Classes.Exercise
 {
     public abstract class Polygon
     {
-        public int Width { get; set; }
-        public int Height { get; set; }
-        public int Length { get; set; }
+        public double Width { get; set; }
+        public double Height { get; set; }
+        public double Length { get; set; }
         public abstract double Area();
     }
 
