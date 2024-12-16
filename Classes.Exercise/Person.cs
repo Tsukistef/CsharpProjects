@@ -1,13 +1,9 @@
-using System.Security.Cryptography;
+﻿using System.Security.Cryptography;
 
-namespace Classes.Exercise
+namespace Methods.Exercise
 {
     public class Person
     {
-        public Person()
-        {
-            
-        }
         // Costructor
         public Person(string firstName, string lastName, DateOnly dateofBirth, string _taxNumber)
         {
@@ -22,7 +18,7 @@ namespace Classes.Exercise
             LastName = lastName;
             _taxNumber = taxNumber;
         }
-       
+
 
         // Properties/ Data Members
         public string FirstName { get; set; }
@@ -40,14 +36,14 @@ namespace Classes.Exercise
 
         public void GenerateTaxCode()
         {
-            if(string.IsNullOrEmpty(_taxNumber))
+            if (string.IsNullOrEmpty(_taxNumber))
             {
                 _taxNumber = RandomNumberGenerator.GetInt32(100000, 9999999).ToString();
             }
             else
             {
                 Console.WriteLine("Tax number already exists");
-            } 
+            }
         }
 
         public string GetTaxNumber()

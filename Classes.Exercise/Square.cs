@@ -1,4 +1,6 @@
-﻿namespace Classes.Exercise
+﻿using Classes.Exercise;
+
+namespace Methods.Exercise
 {
     public class Square : Polygon
     {
