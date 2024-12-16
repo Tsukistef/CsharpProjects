@@ -16,7 +16,7 @@ namespace Methods.Exercise
         }
         public int Perimeter()
         {
-            throw new NotImplementedException();
+            return (2 * Length) + (2 * Width);
         }
     }
 

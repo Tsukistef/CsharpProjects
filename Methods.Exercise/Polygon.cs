@@ -9,7 +9,9 @@ namespace Methods.Exercise
     public abstract class Polygon
     {
         public int Width { get; set; }
-        public abstract int Area();
+        public int Height { get; set; }
+        public int Length { get; set; }
+        public abstract double Area();
     }
 
 }

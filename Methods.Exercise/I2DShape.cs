@@ -8,6 +8,6 @@ namespace Classes.Exercise
 {
     public interface I2DShape
     {
-        int Perimeter();
+        double Perimeter();
     }
 }
