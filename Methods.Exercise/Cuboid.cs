@@ -1,5 +1,3 @@
-﻿using Methods.Exercise;
-
 namespace Classes.Exercise
 {
     public class Cuboid : Polygon, I2DShape, I3DShape
