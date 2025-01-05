@@ -1,6 +1,6 @@
 using System.Security.Cryptography;
 
-namespace Classes.Exercise
+namespace Classes.Exercise.Classes.PersonDemo
 {
     public class Person
     {

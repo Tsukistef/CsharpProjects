@@ -1,4 +1,4 @@
-﻿namespace Classes.Exercise
+﻿namespace Classes.Exercise.Interfaces
 {
     public interface ICircularShape
     {

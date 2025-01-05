@@ -1,4 +1,6 @@
-﻿namespace Classes.Exercise
+﻿using Classes.Exercise.Interfaces;
+
+namespace Classes.Exercise
 {
     public class Sphere : ICircularShape, I3DShape
     {

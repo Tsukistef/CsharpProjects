@@ -1,3 +1,5 @@
+using Classes.Exercise.Interfaces;
+
 namespace Classes.Exercise
 {
     public class Cuboid : Polygon, I2DShape, I3DShape

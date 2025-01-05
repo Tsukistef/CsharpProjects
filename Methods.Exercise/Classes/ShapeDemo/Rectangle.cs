@@ -1,4 +1,4 @@
-﻿using Classes.Exercise;
+﻿using Classes.Exercise.Interfaces;
 
 namespace Classes.Exercise
 {
