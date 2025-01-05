@@ -1,5 +1,6 @@
 ﻿// See https://aka.ms/new-console-template for more information
 using Classes.Exercise;
+using Classes.Exercise.Classes.PersonDemo;
 
 // creating an instance of a class
 Person baby = new Person();
