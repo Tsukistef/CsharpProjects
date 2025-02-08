@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\sfior\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {}
+    "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {}
   },
   "projects": {
-    "C:\\Users\\sfior\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {
+    "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\sfior\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
+        "projectUniqueName": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
         "projectName": "ConsoleApp.CallCenterAid",
-        "projectPath": "C:\\Users\\sfior\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
+        "projectPath": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\ConsoleApp.CallCenterAid.csproj",
         "packagesPath": "C:\\Users\\sfior\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\sfior\\Source\\Repos\\CsharpProjects\\ConsoleApp.CallCenterAid\\obj\\",
         "projectStyle": "PackageReference",

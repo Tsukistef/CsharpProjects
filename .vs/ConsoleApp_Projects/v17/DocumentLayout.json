@@ -3,12 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{A9CCB8E3-8F0F-4630-AD87-56BF929781DA}|Methods.Exercise\\Classes.Exercise.csproj|c:\\users\\sfior\\source\\repos\\csharpprojects\\methods.exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A9CCB8E3-8F0F-4630-AD87-56BF929781DA}|Methods.Exercise\\Classes.Exercise.csproj|solutionrelative:methods.exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|c:\\users\\sfior\\source\\repos\\csharpprojects\\userinput.exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|solutionrelative:userinput.exercise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{40188657-C3B4-4A8A-9F47-DD873CDEC32C}|Calculator.WithMethods\\Calculator.WithMethods.csproj|c:\\users\\sfior\\source\\repos\\csharpprojects\\calculator.withmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{40188657-C3B4-4A8A-9F47-DD873CDEC32C}|Calculator.WithMethods\\Calculator.WithMethods.csproj|solutionrelative:calculator.withmethods\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|c:\\users\\sfior\\source\\repos\\csharpprojects\\userinput.exercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|solutionrelative:userinput.exercise\\person.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|c:\\users\\sfior\\source\\repos\\csharpprojects\\userinput.exercise\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7BE26D0E-565D-4900-B4F4-08882EABFA07}|UserInput.Exercise\\UserInput.Exercise.csproj|solutionrelative:userinput.exercise\\constants.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,7 +22,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 6,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Bookmark",
@@ -46,28 +50,41 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\Methods.Exercise\\Program.cs",
-              "RelativeDocumentMoniker": "Methods.Exercise\\Program.cs",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\Methods.Exercise\\Program.cs",
-              "RelativeToolTip": "Methods.Exercise\\Program.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAqAAAA",
+              "DocumentIndex": 2,
+              "Title": "Constants.cs",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Constants.cs",
+              "RelativeDocumentMoniker": "UserInput.Exercise\\Constants.cs",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Constants.cs",
+              "RelativeToolTip": "UserInput.Exercise\\Constants.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAYAAAAdAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-01-05T19:27:34.672Z",
+              "WhenOpened": "2025-02-08T17:15:58.363Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\Calculator.WithMethods\\Program.cs",
-              "RelativeDocumentMoniker": "Calculator.WithMethods\\Program.cs",
-              "ToolTip": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\Calculator.WithMethods\\Program.cs",
-              "RelativeToolTip": "Calculator.WithMethods\\Program.cs",
-              "ViewState": "AQIAAFsAAAAAAAAAAAAlwG0AAAAFAAAA",
+              "Title": "Person.cs",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Person.cs",
+              "RelativeDocumentMoniker": "UserInput.Exercise\\Person.cs",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Person.cs",
+              "RelativeToolTip": "UserInput.Exercise\\Person.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAA/wBwAAAAqAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-18T18:52:03.049Z",
+              "WhenOpened": "2025-02-08T14:23:17.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Program.cs",
+              "RelativeDocumentMoniker": "UserInput.Exercise\\Program.cs",
+              "ToolTip": "C:\\Users\\sfior\\source\\repos\\CsharpProjects\\UserInput.Exercise\\Program.cs",
+              "RelativeToolTip": "UserInput.Exercise\\Program.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAAABsAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-08T14:21:09.297Z",
               "EditorCaption": ""
             }
           ]

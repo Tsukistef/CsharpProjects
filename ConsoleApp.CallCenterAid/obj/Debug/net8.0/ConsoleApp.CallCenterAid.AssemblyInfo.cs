@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ConsoleApp.CallCenterAid")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+70e110a6cec8eb4cae4024f408d51fe1ea192bee")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7e686c2754de1b81cc2a69a1be3e24d865287740")]
 [assembly: System.Reflection.AssemblyProductAttribute("ConsoleApp.CallCenterAid")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ConsoleApp.CallCenterAid")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

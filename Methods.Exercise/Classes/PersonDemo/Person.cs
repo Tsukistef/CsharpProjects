@@ -2,19 +2,13 @@ using System.Security.Cryptography;
 
 namespace Classes.Exercise.Classes.PersonDemo
 {
-    public class Person
+    public partial class Person
     {
         public Person()
         {
             
         }
         // Costructor
-        public Person(string firstName, string lastName, DateOnly dateofBirth, string _taxNumber)
-        {
-            FirstName = firstName;
-            LastName = lastName;
-            DateofBirth = dateofBirth;
-        }
 
         public Person(string firstName, string lastName, string taxNumber)
         {
