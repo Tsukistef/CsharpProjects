@@ -11,8 +11,8 @@ namespace UserInput.Exercise
     {
         public Person(DateOnly dob) 
         {
-            _age = DateTime.Now.Year - DateOfBirth.Year;
             DateOfBirth = dob;
+            _age = DateTime.Now.Year - DateOfBirth.Year;
         }
 
         public required string FirstName { get; set; }
@@ -26,11 +26,11 @@ namespace UserInput.Exercise
 
         public int GetNumberOfWorkingYearsRemaining()
         {
-            return Constants.retirementAge - _age;
+            return Constants.RetirementAge - _age; //this will return the number of years left until retirement
         }
         public DateOnly GetEstimatedRetirementDate()
         {
-            return DateOnly.FromDateTime(DateTime.Now).AddYears(Constants.retirementAge - _age);
+            return DateOnly.FromDateTime(DateTime.Now.AddYears(GetNumberOfWorkingYearsRemaining()));
         }
 
         public int GetAge()
